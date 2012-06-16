@@ -11,6 +11,7 @@ public class GameController : MonoBehaviour {
 	public GameObject[,,] level = new GameObject[16,4,4];
 	public int currentHeight = 0;
 	public int totalMarkers = 0;
+	public bool initialized = false;
 	
 	// Use this for initialization
 	void Start () {
