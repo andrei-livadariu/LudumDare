@@ -15765,3 +15765,201 @@ Creating MarkerSimpleId
 Registered SingleMarkerTarget
 Creating MarkerSimpleId
 Registered SingleMarkerTarget
+Loaded camera file
+Registered MarkerDetectorSimpleId
+Registered PoseEstimatorRPP
+Creating MarkerSimpleId
+Registered SingleMarkerTarget
+Creating MarkerSimpleId
+Registered SingleMarkerTarget
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+CameraMatlab: Can not change size to smaller than 0
+Loaded camera file
+Registered MarkerDetectorSimpleId
+Registered PoseEstimatorRPP
+Creating MarkerSimpleId
+Registered SingleMarkerTarget
+Creating MarkerSimpleId
+Registered SingleMarkerTarget
+Loaded camera file
+Registered MarkerDetectorSimpleId
+Registered PoseEstimatorRPP
+Creating MarkerSimpleId
+Registered SingleMarkerTarget
+Creating MarkerSimpleId
+Registered SingleMarkerTarget

@@ -20,6 +20,7 @@ public class TrackerMonitor : MonoBehaviour {
 	void Update () {
 		if( gc.initialized ) {
 			if( marker.visible ) {
+				StopCoroutine( "Timeout" );
 				linkedObject.SetActiveRecursively( true );
 				Vector3 relativePosition = level.transform.InverseTransformPoint( transform.position );
 				
@@ -36,9 +37,14 @@ public class TrackerMonitor : MonoBehaviour {
 					relativePosition.z
 				);
 			} else {
-				linkedObject.SetActiveRecursively( false );
+				StartCoroutine( "Timeout" );
 			}
 		}
+	}
+	
+	IEnumerator Timeout() {
+		yield return new WaitForSeconds( 2.0f );
+		linkedObject.SetActiveRecursively( false );
 	}
 	
 	public void OnShow() {
